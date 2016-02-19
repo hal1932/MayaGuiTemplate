@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayaGuiTemplate", "MayaGuiTemplate\MayaGuiTemplate.csproj", "{522EEFEA-7A16-40ED-95E0-0EDED93886EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewDebugEntryPoint", "ViewDebugEntryPoint\ViewDebugEntryPoint.csproj", "{6A1C6B2C-F001-4411-A345-33182E48F57C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ViewDebug|Any CPU = ViewDebug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522EEFEA-7A16-40ED-95E0-0EDED93886EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522EEFEA-7A16-40ED-95E0-0EDED93886EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522EEFEA-7A16-40ED-95E0-0EDED93886EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522EEFEA-7A16-40ED-95E0-0EDED93886EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522EEFEA-7A16-40ED-95E0-0EDED93886EC}.ViewDebug|Any CPU.ActiveCfg = ViewDebug|Any CPU
+		{522EEFEA-7A16-40ED-95E0-0EDED93886EC}.ViewDebug|Any CPU.Build.0 = ViewDebug|Any CPU
+		{6A1C6B2C-F001-4411-A345-33182E48F57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1C6B2C-F001-4411-A345-33182E48F57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1C6B2C-F001-4411-A345-33182E48F57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1C6B2C-F001-4411-A345-33182E48F57C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1C6B2C-F001-4411-A345-33182E48F57C}.ViewDebug|Any CPU.ActiveCfg = ViewDebug|Any CPU
+		{6A1C6B2C-F001-4411-A345-33182E48F57C}.ViewDebug|Any CPU.Build.0 = ViewDebug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
